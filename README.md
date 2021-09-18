@@ -1,3 +1,3 @@
 # weather-app
 web app
-# https://bagem.netlify.app
+# https://js-weather-project.netlify.app/
